@@ -1,0 +1,21 @@
+body {
+	background-color: #000000;
+}
+
+.title{
+	color: black; 
+	font-family: arial;
+	font-size: 4em;
+	text-align: center;
+}
+
+.nav{
+	text-align: center; 
+	overflow: hidden;
+
+}
+
+.nav li{
+	display: inline;
+}
+
