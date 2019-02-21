@@ -1,0 +1,25 @@
+body{
+	background-color: #6DBADE; 
+}
+
+.title{
+	color: black;
+	text-align: center;
+	font-family: Arial;
+	font-size: 4em; 
+
+}
+
+.nav{
+	list-style-type: none; 
+	text-align: center; 
+}
+
+.nav li{
+	display:inline; 
+	border-left: 1px solid #000;
+}
+
+.nav li:last-child{
+	border-right: 1px solid #000; 
+}
